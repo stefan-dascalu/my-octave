@@ -1,5 +1,4 @@
 # Copyright Dascalu Stefan-Nicolae 321CA 2023 - 2024
-## Programarea calculatoarelor - Tema 2: Simulator de Octave
 
 ### Task 'L' - Load Matrix
 The **'L'** task involves dynamically allocating a new matrix.  
